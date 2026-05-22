@@ -147,6 +147,12 @@ This system improves efficiency in hospitals and clinics by digitizing patient r
 
 ---
 
+## Screenshorts
+
+<img width="1903" height="1014" alt="image" src="https://github.com/user-attachments/assets/fe4cef45-deac-4f6d-8153-0c57d124ec38" />
+<img width="1901" height="1022" alt="image" src="https://github.com/user-attachments/assets/26f29f07-46b4-41ab-a31c-f74f1fd59406" />
+
+
 ## 🧠 State Management (Zustand)
 
 Store structure:
